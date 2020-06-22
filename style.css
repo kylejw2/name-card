@@ -38,9 +38,9 @@ H4 {
     flex-direction: column;
     color: rgb(255, 255, 255);
 }
-#user_text {
+.input-container {
     position: relative;
     left: 50%;
     top: 5em;
-    transform: translateX(-50px);
+    transform: translateX(-80px);
 }
